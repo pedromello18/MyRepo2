@@ -6,3 +6,5 @@ Does it handle Latex? $y=x^2$
 testing pull
 
 # Testing third branch
+
+## Different from master
